@@ -1,0 +1,20 @@
+body{
+    color: white;
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+a:hover{
+    color: red;
+    
+}
+
+h1, h2 {
+    color: #5EFF00;
+    text-shadow: 2px 2px 8px;
+    padding-top: 2em;
+}
+ p{
+    color: #FFFB00;
+    width: 40em;
+ }
