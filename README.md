@@ -2,4 +2,4 @@
 This is a practice exercise to deploy website 
 
 ## Technologies Used
-HTML CSS
+HTML, CSS and Javascript
