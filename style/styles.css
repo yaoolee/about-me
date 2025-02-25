@@ -1,12 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body{
     color: white;
     background-color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    
+    line-height: 2em;
+    padding: 4em;
+    width: 80%;
 }
 a:hover{
     color: red;
-    
+    margin-bottom: 0.5em;
 }
 
 h1, h2 {
@@ -14,7 +22,13 @@ h1, h2 {
     text-shadow: 2px 2px 8px;
     padding-top: 2em;
 }
- p{
-    color: #FFFB00;
-    width: 40em;
- }
+ 
+#toggle{
+    display: block;
+    margin: 2em 0;
+    padding: 0.5em;
+    border-radius: 2em;
+}
+
+
+
